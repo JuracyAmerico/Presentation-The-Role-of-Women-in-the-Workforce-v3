@@ -1,6 +1,7 @@
 ---
 # Information sourced from https://wjschne.github.io/apaquarto/options.html
 title: "The Role of Women in the Workforce in Canada"  
+output-file: index.html
 subtitle: Challenges and Opportunities
 author:
   - name: Juracy Américo de Oliveira Filho  
@@ -19,14 +20,14 @@ fig-cap-location: top
 citations-hover: false
 link-citations: false  # In-text citations will be hyperlinked to the reference list
 title-slide-attributes: 
-  data-notes: "Good morning, everyone, and thank you for joining me today. My name is **Americo**, I am here today to talk to you about a topic crucial to Canada s future: the role of women in our workforce."
+  data-notes: "Good morning, everyone, and thank you for joining me today. My name is **Americo**, I am here today to talk to you about a topic crucial to Canada's future: the role of women in our workforce."
 date: last-modified
 # bibliography: My Library.bib
 csl: apa-cv.csl
 bibliography: references.bib
 ---
 
-## Agenda/Overview 
+## Agenda/Overview
 
 -   Key topics:
     -   The Gender Pay Gap
@@ -39,26 +40,35 @@ bibliography: references.bib
     -   Q&A
 
 ::: notes
-To understand the scope of this issue:
-
--   We'll begin by examining **the gender pay gap**, analyzing its causes and implications.
--   Next, we'll address the **underrepresentation of women in leadership** roles, identifying the systemic barriers hindering their advancement. 
--   Then, we'll turn our attention to the **unequal division of unpaid labor**, highlighting its impact on women's career trajectories.  
--   We'll then confront common **counter-arguments** against gender inequality, offering well-supported rebuttals.
--   Our focus will then shift to highlighting the compelling **economic benefits** of gender equality and the necessity of **cultural shifts** in dismantling outdated gender norms.
--   Finally, we'll look towards the **future**, emphasizing the need for **collective action** in establishing equitable workplaces.
--   Follow by my **references** and **Q&A**
+-   In this presentation, we will first examine the **reality of the gender pay gap in Canada**, where women earn significantly less than men for similar work.
+-   We will then look at the **stark underrepresentation of women in leadership roles**, despite their qualifications and the benefits of diverse leadership.
+-   Next, we will discuss the **unequal burdens of unpaid labor** shouldered by women, highlighting how it impacts their career progression.
+-   We will then **address and debunk common counter-arguments and harmful stereotypes** that perpetuate these inequalities.
+-   Next, we will explore **actionable solutions, including policy changes and cultural shifts**, that can pave the way for a future of true gender equality in Canada.
+-   Finally I have my **references** and **Q&A**
 :::
 
 ## Introduction {.theme-slide5}
 
-:::::: {.column width="60%"}
+:::::: {.column width="50%"}
 ::::: {.fragment .fade-in data-fragment-index="1"}
 :::: {#fig-woman fig-cap="<br> _The Gender Gap_" style="font-size: 16px !important; text-align: left !important;"}
 ![](images/pay_gap.png)
 
 ::: fig-note
 *Note.* The illustration effectively highlights the persistent disparity in wages between men and women in the workforce \[Infographic\]. From [@lipman2015] © 2024 The New York Times Company.
+:::
+::::
+:::::
+::::::
+
+:::::: {.column width="40%"}
+::::: {.fragment .fade-in data-fragment-index="2"}
+:::: {#fig-woman fig-cap="<br> _Gap in average_" style="font-size: 16px !important; text-align: left !important;"}
+![](images/pay_gap%20v2.png)
+
+::: fig-note
+*Note.* Gap in Average hourly wage relative to Canadian-born men, by group of women, 2007 to 2008 and 20221 to 2022. From [@intersec2023] © 2024.
 :::
 ::::
 :::::
@@ -74,7 +84,7 @@ Did you know that in Canada today, even after decades of women surpassing men in
 
 :::::::: columns
 ::: {.column width="40%"}
--   **Women earn less than men**
+-   **Women earn less than men** (Canadian Women’s Foundation. 2024)
 -   **Occupational segregation lowers pay**
 -   **Bias impacts pay for women**
 :::
@@ -95,7 +105,7 @@ Did you know that in Canada today, even after decades of women surpassing men in
 ::: notes
 The gender pay gap is the difference between what men and women earn for similar work. Despite progress, in 2018, **Canadian women earned a shocking 13.3% less per hour than men.** Think about that - for every dollar a man earns, a woman doing the same job earns only 87 cents.
 
-**Why?** A major factor is occupational segregation, meaning women are often concentrated in lower-paying fields. This isn’t accidental. There’s a clear devaluation of work traditionally done by women. Research shows that when more women enter a field, the average salary for that profession actually goes down! For every 10% increase in women in a specialty, the median salary drops by over \$8,000. This points to a deep-rooted bias we need to challenge.
+**Why?** A major factor is **occupational segregation**, meaning women are often concentrated in lower-paying fields. This isn’t accidental. There’s a clear devaluation of work traditionally done by women. Research shows that when more women enter a field, the average salary for that profession actually goes down! For every 10% increase in women in a specialty, the median salary drops by over \$8,000. This points to a deep-rooted **bias we need to challenge**.
 :::
 
 ## Underrepresentation in Leadership {.theme-slide5}
@@ -114,16 +124,16 @@ The gender pay gap is the difference between what men and women earn for similar
 ::::::
 
 ::: {.column width="40%"}
--   **Few women lead major companies.**
+-   **Few women lead major companies.** (Canadian Women’s Foundation. 2024)
 -   **Diverse leadership boosts profits.**
--   **Support women: mentor, sponsor, promote.**
+-   **Support women: mentor, sponsor, promote.** (Canadian Women’s Foundation. 2024)
 :::
 ::::::::
 
 ::: notes
-This isn't just about paychecks, it's about who gets a seat at the table. Despite their qualifications, women are significantly underrepresented in leadership positions. Yet, studies show that companies led by women actually outperform others, demonstrating that diverse leadership isn't just ethical, it's good for business.
+This isn't just about paychecks, it's about who gets a seat at the table. Despite their qualifications, **women are significantly underrepresented in leadership positions**. Yet, studies show that companies led by women actually outperform others, **demonstrating that diverse leadership** isn't just ethical, it's good for business.
 
-So, what's holding women back? Unconscious bias plays a big role. This can be as subtle as assuming a man is more assertive or a woman is less likely to take risks. This bias affects hiring, promotions, and even who gets mentored for leadership roles.
+So, what's holding women back? Unconscious bias plays a big role. This can be as subtle as assuming a man is more assertive or a woman is less likely to take risks. This bias affects **hiring, promotions, and even who gets mentored for leadership roles**.
 :::
 
 ## Unequal Division of Unpaid Labor {.theme-slide6}
@@ -142,18 +152,18 @@ So, what's holding women back? Unconscious bias plays a big role. This can be as
 ::::::
 
 ::: {.column width="40%"}
--   **Unpaid labor burdens women.**
+-   **Unpaid labor burdens women.** (Heintz et al., 2021)
 -   **"Second shift" hurts careers.**
--   **Shared responsibility is key.**
+-   **Shared responsibility is key.** (Heintz et al., 2021)
 :::
 ::::::::
 
 ::: notes
-Let's talk about the work that often goes unseen: unpaid labor. Women disproportionately shoulder the burden of housework and childcare. Even when both partners work full-time, studies show women are still doing the lion's share at home.
+Let's talk about the work that often goes unseen: **unpaid labor**. Women disproportionately shoulder the burden of housework and childcare. Even when both partners work full-time, studies show women are still doing the **lion's share at home**.
 
-This unequal division has a ripple effect. It limits women's career progression, forcing many to reduce their hours or leave the workforce entirely. This contributes to the "motherhood penalty" where mothers face significant career setbacks compared to fathers.
+This **unequal division has a ripple effect**. It limits women's career progression, forcing many to reduce their hours or leave the workforce entirely. This contributes to the "motherhood penalty" where mothers face significant career setbacks compared to fathers.
 
-**(Transition to counter-arguments):** It's easy to dismiss the need for change, to accept the status quo. You might hear arguments that focus on the costs of solutions or rely on outdated stereotypes. Let's take these arguments head-on and uncover the truth.
+Now, some might argue against these points. They might say addressing these issues is costly or that women simply aren’t as ambitious. Let’s examine these arguments.
 :::
 
 ## Counter-Arguments {.theme-slide5}
@@ -179,10 +189,12 @@ This unequal division has a ripple effect. It limits women's career progression,
 ::::::::
 
 ::: notes
-**(Addressing the Economic Counter-Argument):** Some may argue that implementing policies like equitable parental leave or affordable childcare is too expensive. This narrow view ignores the bigger picture—the undeniable economic benefits of women’s full participation in the workforce. Studies unequivocally show that investing in affordable childcare doesn't just level the playing field for families, it **boosts the entire economy**. When women can access quality childcare, they can contribute their talents and skills to the workforce, **increasing productivity and driving economic growth**. This isn't just about social justice; it's about smart economics.
+A common argument is that policies like equitable parental leave or affordable childcare are too expensive. This short-sighted view ignores the economic benefits of women’s full participation in the workforce. Studies show investing in affordable childcare **boosts the economy** by **increasing productivity** and allowing more women to work.
+
+Another argument relies on harmful stereotypes, suggesting women are less ambitious or lack leadership qualities. This simply isn't true. Research consistently debunks this myth, showing women are just as **interested in leadership roles** but face greater obstacles throughout their careers.
 :::
 
-## Rebuttals: Economic Benefits & Debunking Stereotypes {.theme-slide6}
+## Rebuttals: Economic Benefits & Debunking Stereotypes {.theme-slide6 visibility="hidden"}
 
 :::::::: columns
 :::::: {.column width="60%"}
@@ -270,12 +282,32 @@ Beyond policies, we need a cultural shift that values:
 ::::::::
 
 ::: notes
-Achieving gender equality isn't just a women's issue; it's a societal imperative. It demands a collective effort from individuals, businesses, and policymakers to break down these barriers and create a Canada where everyone can thrive.
+Achieving gender equality isn't just a women's issue; it's a **societal imperative**. It **demands a collective effort from individuals**, businesses, and policymakers to break down these barriers and create a Canada where everyone can thrive.
 
-I urge you to join this movement. Speak up against gender bias, challenge stereotypes, and support policies that promote equality. Together, we can create a Canada where every person, regardless of gender, has the opportunity to reach their full potential.
+I urge you to join this movement. Speak up against gender bias, challenge stereotypes, and support policies that promote equality. **Together, we can create a Canada where every person**, regardless of gender, has the opportunity to reach their full potential.
 :::
 
 ## Slide Title {visibility="hidden"}
+
+[@canadianwomensfoundation2024]
+
+[@charters2006]
+
+[@governmentofcanada2023]
+
+[@heintz2021]
+
+[@huang2021]
+
+[@islam2020]
+
+[@lam2024]
+
+[@lowestrates2021]
+
+[@pickel2024]
+
+[@raj2024]
 
 # References
 
